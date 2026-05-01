@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-score,AUC,Notes
+Logistic Regression,0.9085,0.6349,0.8989,0.7442,0.959,Linear baseline
+Decision Tree,0.9251,0.6833,0.9213,0.7847,0.9407,Nonlinear baseline
+k-NN,0.9515,0.8808,0.7781,0.8262,0.9762,Instance-based baseline

@@ -1,0 +1,11 @@
+Rank,Feature Name,Importance Score,Direction / Effect,Domain Interpretation
+1,temperature_motor,0.2263,Model-dependent,Temperature patterns may reflect thermal stress.
+2,rpm,0.175,Model-dependent,Rotational speed may reflect abnormal operating conditions.
+3,vibration_rms,0.1421,Model-dependent,Higher vibration may indicate mechanical instability.
+4,current_phase_avg,0.1391,Model-dependent,Electrical current may indicate load or electrical stress.
+5,hours_since_maintenance,0.0751,Model-dependent,Longer maintenance intervals may increase failure risk.
+6,pressure_level,0.0529,Model-dependent,Pressure deviations may indicate operational strain.
+7,machine_id,0.0456,Model-dependent,Feature may contribute to predictive maintenance decisions.
+8,day_of_week,0.0391,Model-dependent,Temporal patterns may capture operating schedule effects.
+9,operating_mode=normal,0.0148,Model-dependent,Operating mode may influence machine stress level.
+10,operating_mode=idle,0.0139,Model-dependent,Operating mode may influence machine stress level.
